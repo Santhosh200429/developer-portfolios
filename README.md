@@ -765,6 +765,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sanajit Jana](https://sanajitjana.github.io)
 - [Sandeep Vashishtha](https://vashishtha.live)
 - [Sanee Itas](https://saneeitas.netlify.app)
+- [Santhosh](https://santhosh-protfolio.vercel.app)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
 - [Sarang N](https://srng.dev)
